@@ -1,0 +1,8 @@
+var 手机  =  数码产品
+var iphone = 手机
+var iphone8 = iphone
+
+ ask iphone8?
+
+
+ reply  iphone8 is 数码产品
